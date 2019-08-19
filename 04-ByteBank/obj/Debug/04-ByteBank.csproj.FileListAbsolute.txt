@@ -1,0 +1,7 @@
+C:\Users\bruno\source\repos\ByteBank\04-ByteBank\bin\Debug\04-ByteBank.exe.config
+C:\Users\bruno\source\repos\ByteBank\04-ByteBank\bin\Debug\04-ByteBank.exe
+C:\Users\bruno\source\repos\ByteBank\04-ByteBank\bin\Debug\04-ByteBank.pdb
+C:\Users\bruno\source\repos\ByteBank\04-ByteBank\obj\Debug\04-ByteBank.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\ByteBank\04-ByteBank\obj\Debug\04-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\ByteBank\04-ByteBank\obj\Debug\04-ByteBank.exe
+C:\Users\bruno\source\repos\ByteBank\04-ByteBank\obj\Debug\04-ByteBank.pdb
